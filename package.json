@@ -1,0 +1,16 @@
+{
+  "name": "attmacah-user-card",
+  "version": "1.0.0",
+  "description": "user profile card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "user",
+    "card",
+    "profile"
+  ],
+  "author": "hamza atmaca",
+  "license": "MIT"
+}
