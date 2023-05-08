@@ -6,11 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzaatmaca/attmacah-user-card.git"
+  },
   "keywords": [
     "user",
     "card",
+    "profile",
+    "card",
     "profile"
   ],
-  "author": "hamza atmaca",
-  "license": "MIT"
+  "author": "HAMZA ATMACA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hamzaatmaca/attmacah-user-card/issues"
+  },
+  "homepage": "https://github.com/hamzaatmaca/attmacah-user-card#readme"
 }
